@@ -1,0 +1,193 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Licorice&family=Moon+Dance&family=Vujahday+Script&family=Yuji+Hentaigana+Akebono&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Island+Moments&family=Licorice&family=Moon+Dance&family=Vujahday+Script&family=Yuji+Hentaigana+Akebono&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Comforter+Brush&family=Fredoka+One&family=Hammersmith+One&family=Island+Moments&family=Licorice&family=Moon+Dance&family=Pushster&family=Sacramento&family=Vujahday+Script&family=Yuji+Hentaigana+Akebono&display=swap');.row{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    display: flex;
+    color: white;
+    position: sticky;
+    top: 0px;
+}
+img{
+    width: 100%;
+    height: 70px;
+}
+.col1{
+    display: flex;
+}
+h2{
+    color:floralwhite;
+    font-family: 'Licorice', cursive;
+}
+body{
+    background-color: black;
+}
+h3{
+    position: sticky;
+}
+.row1{
+    width: 100%;
+    height: 700px;
+    color: white;
+    display: flex;
+}
+.cl{
+    width: 100%;
+    height: 852px;
+    background-image: url(./images/1.jpg);
+    background-size: cover;
+}
+#idd{
+    color: goldenrod;
+    font-family: 'Comforter Brush', cursive;
+    padding-left: 141px;
+    padding-top: 216px;
+}
+#id1{
+    color: cornflowerblue;
+    text-align: center;
+    font-family: 'Comforter Brush', cursive;
+}
+.row-2{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: -20px;
+    padding-top: 5px;
+}
+.pr{
+    width: 100%;
+    height: 100px;
+
+}
+.c2{
+    width: 100%;
+    height: 100px;
+    color: white;
+    border: white 2px solid ;
+}
+#id2{
+    padding-left: 30px;
+    width: 20%;
+    height: 200px;
+    border: black 2px solid ;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+}
+#cofe{
+    color: mediumvioletred;
+    padding-left: 123px;
+    font-family: 'Caveat', cursive;
+    font-size: xx-large;
+}
+/* p{
+    color: mintcream;
+} */
+.row3{
+    width: 100%;
+    height: 350px;
+    background-color: black;
+    display: flex;
+}
+.cc{
+    width: 100%;
+    height: 350px;
+
+}
+.cc1{
+    background-color: black;
+}
+.cc2{
+    background-color: black;
+}
+.cc3{
+    background-color:black;
+}
+#im1{
+    width: 84%;
+    height: 175px;
+    padding-left: 27px;
+}
+#im2{
+    width: 88%;
+    height: 175px;
+    padding-left: 33px;
+}
+#im3{
+    width: 70%;
+    height: 175px;
+    padding-left: 77px;
+}
+#aa{
+    color: crimson;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+#hs{
+    color: white;
+    font-family: 'Hammersmith One', sans-serif;
+    padding-left: 20px;
+
+}
+.row4{
+    width: 100%;
+    height: 350px;
+    background-color: black;
+    display: flex;
+}
+.row5{
+    width: 100%;
+    height: 250px;
+    display: flex;
+}
+.cf{
+    width: 100%;
+    height: 250px;
+}
+
+#im4{
+    height: 240px;
+    width: 44%;
+    padding-left: 300px;
+}
+/* #hm{
+    text-align: center;
+    color: rgb(14, 12, 12);
+    padding-bottom: 10px;
+}
+.rw{
+    background-color: black;
+}
+.rw1{
+    width: 100%;
+    height: 350px;
+    background-color: black;
+}
+.rr{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(rgb(80, 49, 28);
+    padding-bottom: 3px;
+} */
+.ct{
+    width: 100%;
+    height: 852px;
+    background-image: url(./images/aboutimg.jpg);
+    background-size: cover;
+}
+#ids{
+    color: rgb(162, 201, 22);
+    font-family: 'Pushster', cursive;
+    padding-left: 141px;
+    padding-top: 216px;
+}
+#idt{
+    color: chocolate;
+    text-align: center;
+
+}

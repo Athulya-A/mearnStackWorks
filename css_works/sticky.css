@@ -1,0 +1,12 @@
+div{
+    background-color: violet;
+    position: sticky;
+    /* top: 100px; */
+top: 0px;
+}
+/* position properties
+static
+relative
+absolute
+fixed
+sticky */

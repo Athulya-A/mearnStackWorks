@@ -1,0 +1,29 @@
+div{
+    width: 19%;
+    background-color: black;
+    float: left;
+    border: black 2px solid;
+
+}
+img{
+    width: 50%;
+    height: 200px;
+}
+#d2{
+    text-align: center;
+    width: 80%;
+    height: 15px;
+    background-color: yellow;
+    border: white 4px solid;
+    padding: 5px;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}

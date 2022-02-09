@@ -1,0 +1,21 @@
+div{
+    width: 50%;
+    height: 300px;
+    background-color: black;
+    /* padding: 100px; */
+    padding-left: 50px;
+    padding-top: 100px;
+    /* padding
+    padding-left
+    padding-right
+    padding-top
+    padding-bottum  */
+}
+div p{
+    color: rgb(255, 51, 0);
+}
+/* descendant selector */
+h1{
+    text-align: center;
+    color: violet;
+}
